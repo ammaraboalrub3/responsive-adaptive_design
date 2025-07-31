@@ -8,9 +8,12 @@ This project demonstrates how to build a responsive and adaptive UI in Flutter.
 - Adaptive widgets using `LayoutBuilder` and `MediaQuery`
 
 ## 📸 Moible Screenshots
-assets/images/screenshots/mobile1.png
-assets/images/screenshots/mobile2.png
-assets/images/screenshots/mobile3.png
+
+<p float="left">
+  <img src="assets/images/screenshots/mobile1.png" width="30%" />
+  <img src="assets/images/screenshots/mobile2.png" width="30%" />
+  <img src="assets/images/screenshots/mobile3.png" width="30%" />
+</p>
 
 ## Getting Started
 
