@@ -9,6 +9,7 @@ This project demonstrates how to build a responsive and adaptive UI in Flutter.
 
 ## 📸 Moible Screenshots
 
+<img width="1022" height="468" alt="Image" src="https://github.com/user-attachments/assets/5264affd-f9a2-4bf3-bbd4-bfb1d1e115f3" />
 <p float="left">
   <img src="https://github.com/ammaraboalrub3/responsive-adaptive_design/issues/1#issue-3280907796" width="30%" />
 </p>
