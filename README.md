@@ -15,6 +15,14 @@ This project demonstrates how to build a responsive and adaptive UI in Flutter.
  <img width="1440" height="3120" alt="Image" src="https://github.com/user-attachments/assets/0efbea1e-c135-400e-a979-ccf155e5118f" width="30%" />
 </p>
 
+## 📸 Tablet Screenshot
+<img width="592" height="784" alt="Image" src="https://github.com/user-attachments/assets/f302d24f-b7cc-40a8-a80e-5cfeb84f20ce" />
+
+## 📸 Desktop Screenshot
+
+<img width="1022" height="468" alt="Image" src="https://github.com/user-attachments/assets/5264affd-f9a2-4bf3-bbd4-bfb1d1e115f3" width="30%" />
+
+
 ## Getting Started
 
 To run this project:
